@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2e06216.css",
+    "main.js": "/static/js/main.c1ccd958.js",
+    "static/media/uttkarshsharma.png": "/static/media/uttkarshsharma.85969973801c64ce78e2.png",
+    "static/media/uttkarshs.png": "/static/media/uttkarshs.fcc35d3600108d44f6ad.png",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.535be03f869a488fcece.jpg",
+    "static/media/bg-texture.png": "/static/media/bg-texture.0a4b63c0240b9e46b413.png",
+    "static/media/Uttkarsh Sharma(CV).pdf": "/static/media/Uttkarsh Sharma(CV).5e073c67003b3b5c57b3.pdf",
+    "static/media/portfolio6.png": "/static/media/portfolio6.e3a04afcae89e4c14524.png",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.f5351c67491c94b42bfb.jpg",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.e5a717b5882baffb3002.jpg",
+    "static/media/portfolio5.jpg": "/static/media/portfolio5.aabad617bd400a8a7210.jpg",
+    "static/media/portfolio1.avif": "/static/media/portfolio1.a6649e88d2c50e2b1d7c.avif",
+    "index.html": "/index.html",
+    "main.c2e06216.css.map": "/static/css/main.c2e06216.css.map",
+    "main.c1ccd958.js.map": "/static/js/main.c1ccd958.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e06216.css",
+    "static/js/main.c1ccd958.js"
+  ]
+}
